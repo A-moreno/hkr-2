@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.StringTokenizer;
-public class ContarPalabras {
+public class camelcase {
 
     public static void main(String[] args) {
        Scanner lee = new Scanner(System.in);
